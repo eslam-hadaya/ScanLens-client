@@ -7,7 +7,7 @@ A modern, responsive web application built with **Next.js** and **TypeScript** f
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4+-38B2AC)
 
-> 🔗 Backend repository: [ScanLens — Backend API](https://github.com/eslam-cmd/ScanLens-server)
+> 🔗 Backend repository: [ScanLens — Backend API](https://github.com/eslam-hadaya/ScanLens-server)
 
 ---
 
@@ -40,7 +40,7 @@ You can register a standard account and immediately upgrade your license tier us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/eslam-cmd/ScanLens-client.git
+git clone https://github.com/eslam-hadaya/ScanLens-client.git
 cd ScanLens-client
 ```
 
